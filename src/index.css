@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+
+/* coustom theme */
+
+@theme {
+  /* font family */
+  --font-opensans: "Open Sans", sans-serif;
+  --font-nunito: "Nunito", sans-serif;
+
+  /* font color */
+  --color-primary: #141135;
+  --color-secondary: #726E9E;
+  --color-third: #1BBF00;
+}
+
+
