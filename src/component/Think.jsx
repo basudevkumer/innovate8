@@ -59,7 +59,7 @@ const Think = () => {
                     "Lesser Replenish bearing they’re him cattle kind dominion. You which fill place. Land she’d subdue divided gathering blessed seasons it. Without, wherein days."
                   }
                   heading={"Julon Kumar"}
-                  paragraphTwo={"Facilty"}
+                  paragraphTwo={"Faculty"}
                 />
               </div>
               <div>
